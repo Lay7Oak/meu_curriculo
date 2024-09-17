@@ -1,0 +1,64 @@
+
+body {
+
+    padding: 0;
+    color: rgba(0, 0, 0, 0.745);
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14pt;
+
+}
+
+h1, h2 {
+    color: #2E8B57;
+    font-family: 'Playfair Display', serif;
+}
+
+
+section {
+    margin-bottom: 20px;
+}
+
+.section-title {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+p, li {
+    line-height: 1.6;
+    
+}
+
+.col-md-9{
+  padding: 50px;
+
+}
+
+span{
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-size: 20px;
+}
+
+
+ .licolor{
+    color: #0f9001;
+    font-size: large;
+    list-style-type: none;
+ }
+  
+
+ a:link, :visited{
+    color: #045d2b;
+    
+ }
+
+ #retirarecuo{
+    padding-left: 0;
+    margin-left: 0;
+ }
+ 
+li{
+    list-style-type: circle;
+}
